@@ -11,6 +11,12 @@
 ### Bigquery Common useful analysis funtion-
 1. corr(), stddev(), variance(), 
 
+### Gcloud:
+#### 1. https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97
+
+### Dataflow:
+#### 1. https://github.com/GoogleCloudPlatform/DataflowTemplates
+
 ### Kubernetes
 #### 1. Udemy Links: 
  1. https://www.udemy.com/course/kubernetes-certified-administrator/
