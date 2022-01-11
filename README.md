@@ -12,6 +12,6 @@
 1. corr(), stddev(), variance(), 
 
 ### Kubernetes
-#### 1. Udemi Links: 
+#### 1. Udemy Links: 
  1. https://www.udemy.com/course/kubernetes-certified-administrator/
  2. https://kubernetes-tutorial.schoolofdevops.com/
