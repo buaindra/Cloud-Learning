@@ -4,9 +4,10 @@
 2. It has 2 primary feature: Cluster & Schedule
 3. **COES** stads for container orchestrator engine space.
 4. Features: 
-5.  1. Horizontal Scalling
-    2. Load Balancing
-    3. Fault Tolerance
+ 1. Horizontal Scalling
+ 2. Load Balancing
+ 3. Fault Tolerance
+5. 
     
 
 #### Other COE is Swarm & Messo(Marathon)
