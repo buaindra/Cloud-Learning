@@ -13,7 +13,12 @@
 5. Negative Aspect:
     1. Its little complex
     2. Its require Kubectl cli instead of docker. Also there is yaml file. So we need to learn new things.
-7. Docker:
+6. Namespace:
+    1. Partition your environment based on stack/project, each one called as Namespace. 
+    2. You can restric access between namespaces.
+7. POD:
+    1. 
+8. Docker:
     1. Its a runtime engine
     2. Docker Compose can't distributes application workload across multiple hosts
     
